@@ -5,8 +5,6 @@
 ![Docker](https://img.shields.io/badge/Docker-20.10.21-blue)
 
 This is a weather retrieval app build with Spring Boot. The purpose of this application is to expose an endpoint for current temperature retrieval for a given city provided by the user.
-Additional information about the coding challenge can be found in this
-[PNG](readme-resources/Pair_programming_challenge_Weather_Retrieval_endpoint.png).
 
 ## Prerequisites
 
